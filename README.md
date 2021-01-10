@@ -1,6 +1,7 @@
 <h1 align="center">
 <br>
 <a href="https://disctf.live"><img src="./images/logo_circle.png" alt="Logo" width="250px" height="250px"></a>
+<br>
 DisCTF
 </h1>
 <h3 align="center">Discord Bot for Realtime Updates from CTFd</h3>
