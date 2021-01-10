@@ -1,7 +1,6 @@
 <h1 align="center">
 <br>
 <a href="https://disctf.live"><img src="./images/logo_circle.png" alt="Logo" width="250px" height="250px"></a>
-<br>
 DisCTF
 </h1>
 <h3 align="center">Discord Bot for Realtime Updates from CTFd</h3>
@@ -43,7 +42,7 @@ The bot has an interactive Dashboard page, you have to log in with Discord and a
 
 5. Create a Discord bot and edit the `bot.py` file with token would be find at [Discord Developer](https://discord.com/developers/applications) ( How to create Bot account : [link](https://discordpy.readthedocs.io/en/latest/discord.html) )
 
-6. Start the bot to monitor the CTFd `python3 bot.py -s <session cookie> -u url -c <discord channel id>`
+6. Start the bot to monitor the CTFd `python3 bot.py -s <session cookie> -u <url> -c <discord channel id>`
 
 For adding DisCTF bot in your Discord Server use the link Below
 
@@ -57,7 +56,7 @@ if you need to give a test run before using in your big event, you demo.ctfd.io 
 
 In case, if you need help for deploying Bot for CTF event, you can join the discord chanenl with [https://discord.gg/unB3tzuS9b](https://discord.gg/unB3tzuS9b)
 
-For service and other questions visit : [https://disctf.live](https://disctf.live)
+For more info visit : [https://disctf.live](https://disctf.live)
 
 ### License
 
