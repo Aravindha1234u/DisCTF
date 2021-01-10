@@ -240,7 +240,7 @@ async def on_ready():
 async def on_message(message):
   channel = message.channel
 
-  if "DisCTF#0764" != str(message.author):
+  if str(client.user) != str(message.author):
     if message.content.startswith('/'):
       cmd=message.content.replace("/","").split(" ",1)
       if cmd[0].lower() == "help":
