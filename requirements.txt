@@ -1,0 +1,5 @@
+discord
+discord.py
+requests
+asyncio
+urllib3
