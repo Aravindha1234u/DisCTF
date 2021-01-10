@@ -1,16 +1,19 @@
-<center>
-<a href="https://disctf.live"><img src="./images/logo_circle.png" alt="Logo" width="250px" height="250px"></a>
-<h1>DisCTF
-</h1>
-<h3>Discord Bot for Realtime Updates from CTFd</h3>
+<h1 align="center">
 <br>
+<a href="https://disctf.live"><img src="./images/logo_circle.png" alt="Logo" width="250px" height="250px"></a>
+<br>
+DisCTF
+</h1>
+<h3 align="center">Discord Bot for Realtime Updates from CTFd</h3>
+<br>
+<p align="center">
 <a href="https://www.gnu.org/licenses/gpl-3.0"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3"></a>
 <img src="https://img.shields.io/badge/build-passed-brightgreen" alt="build badge">
 <img src="https://img.shields.io/badge/dependencies-up%20to%20date-066da5" alt="build badge">
 <img src="https://img.shields.io/badge/python-v3.7-blue" alt="Python V3.8">
 <img src="https://img.shields.io/badge/Status-up-brightgreen" alt="status-up">
 <img src="https://img.shields.io/badge/issues-open-yellow" alt="Issues Open">
-</center>
+</p>
 <br><br>
 
 DisCTF is a Discord bot developed to connect Discord server to CTFd framework with a centralized system for real-time notifications. CTFd bot is capable of monitor real-time solves and submission and filter out valid once, sends notifications on each solves with beautiful and colorful embeds with current rank and score of the person who solved with a timestamp in it. We have a live scoreboard that notifies the people on a repeated schedule of 1 minute with ranks of the top 20 players. You can interact with CTFd framework with custom commands that are programmed to fetch particular details from server and display you the necessary Details in easy Fashion and cool look.
